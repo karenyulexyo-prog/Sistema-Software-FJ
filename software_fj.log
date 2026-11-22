@@ -1,0 +1,72 @@
+2026-11-21 19:40:09,587 - INFO - Cliente registrado: C001
+2026-11-21 19:40:09,589 - ERROR - Operación 2 - cliente inválido: El nombre es obligatorio.
+2026-11-21 19:40:09,593 - INFO - Cliente registrado: C003
+2026-11-21 19:40:09,593 - INFO - Servicio registrado: S001
+2026-11-21 19:40:09,593 - INFO - Servicio registrado: S002
+2026-11-21 19:40:09,594 - INFO - Servicio registrado: S003
+2026-11-21 19:40:09,595 - ERROR - Operación 7 - servicio inválido: La tarifa debe ser un número positivo.
+2026-11-21 19:40:09,595 - INFO - Reserva creada: R001
+2026-11-21 19:40:09,596 - INFO - Reserva R001 confirmada
+2026-11-21 19:40:09,596 - ERROR - Operación 9 - reserva inválida: Las horas de alquiler deben ser positivas.
+2026-11-21 19:40:09,597 - INFO - Reserva creada: R003
+2026-11-21 19:40:09,597 - INFO - Reserva R003 cancelada
+2026-11-21 19:40:09,598 - ERROR - Excepción encadenada demostrativa
+Traceback (most recent call last):
+  File "C:\Users\USER\AppData\Local\Temp\Rar$DIa0.961\software_fj.py", line 245, in demo
+    int('dato-no-numérico')
+ValueError: invalid literal for int() with base 10: 'dato-no-numérico'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\USER\AppData\Local\Temp\Rar$DIa0.961\software_fj.py", line 247, in demo
+    raise ValidacionError('No se pudo convertir el dato.') from error_original
+ValidacionError: No se pudo convertir el dato.
+2026-11-21 19:40:15,303 - INFO - Cliente registrado: C001
+2026-11-21 19:40:15,304 - ERROR - Operación 2 - cliente inválido: El nombre es obligatorio.
+2026-11-21 19:40:15,304 - INFO - Cliente registrado: C003
+2026-11-21 19:40:15,304 - INFO - Servicio registrado: S001
+2026-11-21 19:40:15,305 - INFO - Servicio registrado: S002
+2026-11-21 19:40:15,305 - INFO - Servicio registrado: S003
+2026-11-21 19:40:15,305 - ERROR - Operación 7 - servicio inválido: La tarifa debe ser un número positivo.
+2026-11-21 19:40:15,306 - INFO - Reserva creada: R001
+2026-11-21 19:40:15,306 - INFO - Reserva R001 confirmada
+2026-11-21 19:40:15,306 - ERROR - Operación 9 - reserva inválida: Las horas de alquiler deben ser positivas.
+2026-11-21 19:40:15,308 - INFO - Reserva creada: R003
+2026-11-21 19:40:15,308 - INFO - Reserva R003 cancelada
+2026-11-21 19:40:15,309 - ERROR - Excepción encadenada demostrativa
+Traceback (most recent call last):
+  File "C:\Users\USER\AppData\Local\Temp\Rar$DIa0.284\software_fj.py", line 245, in demo
+    int('dato-no-numérico')
+ValueError: invalid literal for int() with base 10: 'dato-no-numérico'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\USER\AppData\Local\Temp\Rar$DIa0.284\software_fj.py", line 247, in demo
+    raise ValidacionError('No se pudo convertir el dato.') from error_original
+ValidacionError: No se pudo convertir el dato.
+2026-11-21 19:40:18,919 - INFO - Cliente registrado: C001
+2026-11-21 19:40:18,920 - ERROR - Operación 2 - cliente inválido: El nombre es obligatorio.
+2026-11-21 19:40:18,920 - INFO - Cliente registrado: C003
+2026-11-21 19:40:18,920 - INFO - Servicio registrado: S001
+2026-11-21 19:40:18,920 - INFO - Servicio registrado: S002
+2026-11-21 19:40:18,921 - INFO - Servicio registrado: S003
+2026-11-21 19:40:18,921 - ERROR - Operación 7 - servicio inválido: La tarifa debe ser un número positivo.
+2026-11-21 19:40:18,921 - INFO - Reserva creada: R001
+2026-11-21 19:40:18,921 - INFO - Reserva R001 confirmada
+2026-11-21 19:40:18,922 - ERROR - Operación 9 - reserva inválida: Las horas de alquiler deben ser positivas.
+2026-11-21 19:40:18,922 - INFO - Reserva creada: R003
+2026-11-21 19:40:18,922 - INFO - Reserva R003 cancelada
+2026-11-21 19:40:18,922 - ERROR - Excepción encadenada demostrativa
+Traceback (most recent call last):
+  File "C:\Users\USER\AppData\Local\Temp\Rar$DIa0.527\software_fj.py", line 245, in demo
+    int('dato-no-numérico')
+ValueError: invalid literal for int() with base 10: 'dato-no-numérico'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\USER\AppData\Local\Temp\Rar$DIa0.527\software_fj.py", line 247, in demo
+    raise ValidacionError('No se pudo convertir el dato.') from error_original
+ValidacionError: No se pudo convertir el dato.
